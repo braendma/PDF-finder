@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Feb  9 11:54:29 2021
-
-@author: braendma
-"""
 import PyPDF2
 import os 
 
