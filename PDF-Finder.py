@@ -23,8 +23,6 @@ def PathWalker():
             if type in name:
                 docs.append(os.path.join(root, name))
     return docs
-        #for name in directories:
-            #print(os.path.join(root, name))
 
 def pdfReader():
     try:
