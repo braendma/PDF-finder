@@ -10,7 +10,7 @@ def PathWalker():
     docs = []
     type = '.pdf'
     
-    select = int(input('Welcher Pfad soll gewählt werden? (1: OneDrive, 2: Ordner "Digitalisierung", 3: Y-Laufwerk): '))
+    select = int(input('Welcher Pfad soll gewählt werden? (1: PATH1, 2: PATH2, 3: PATH3): '))
     if select == 2:
         path = path2
     elif select == 1:
